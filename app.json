@@ -3,8 +3,5 @@
   "description": "Squad server script framework",
   "repository": "https://github.com/tuokri/SquadJS",
   "logo": "https://github.com/Thomas-Smyth/SquadJS/blob/master/core/assets/squadjs-logo.png",
-  "keywords": [
-    "squad",
-    "squadjs",
-  ]
+  "keywords": ["squad", "squadjs"]
 }
